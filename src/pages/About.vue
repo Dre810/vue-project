@@ -4,7 +4,7 @@
     <p>
       I built this weather dashboard using <strong>Vue.js</strong> and the
       <strong>OpenWeatherMap API</strong>. It allows users to view real time
-      weather updates for any city in the world. It can fetch accurate data such as
+      weather updates for all the cities in the world. It can fetch accurate data such as
        temperature, humidity, wind speed, and sky conditions all
        displayed in a clean, animated interface with dynamic backgrounds that change depending
         on the weather.
